@@ -752,8 +752,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1, y: 2.0867367, z: 0.5136736}
+  m_Center: {x: 6.0723263e-18, y: 1.0210545, z: -0.015197694}
 --- !u!114 &1434994036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -769,6 +769,7 @@ MonoBehaviour:
   jumpForce: 16
   gravityModifier: 4
   isOnGround: 1
+  gameOver: 0
 --- !u!1 &3247346380817395294
 GameObject:
   m_ObjectHideFlags: 0
